@@ -6,7 +6,7 @@ class GoTodo < Formula
   homepage "https://github.com/ynfeng/go-todo"
   version "0.0.2"
   url "https://github.com/ynfeng/go-todo/releases/download/v#{version}-alpha/todo-macos-v#{version}-alpha.tar.gz"
-  sha256 "7f70c074f74a5c7cac5f286908588ac8c368ce0965b4504377d59c9d5b47da53"
+  sha256 "8ba0348f8e2bde0f26c840b115a42d7fe1bf8fe3d76a86ecebbb5acec4bed4a2"
   license ""
 
   # depends_on "" => :build
