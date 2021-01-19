@@ -4,8 +4,8 @@
 class GoTodo < Formula
   desc "Manage your todo list"
   homepage "https://github.com/ynfeng/go-todo"
-  version "0.0.2"
-  url "https://github.com/ynfeng/go-todo/releases/download/v#{version}-alpha/todo-macos-v#{version}-alpha.tar.gz"
+  version "0.0.1"
+  url "https://github.com/ynfeng/go-todo/releases/download/v#{version}-alpha/todolist-macos-v#{version}-alpha.tar.gz"
   sha256 "a9bebd484388c6325d73fecba558c02d5f7a121dc5a09a638c14ed332dafaf2f"
   license ""
 
